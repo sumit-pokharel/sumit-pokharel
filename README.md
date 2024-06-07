@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**sumit-pokharel/sumit-pokharel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there, I'm Sumit! 👋
+_drinking coffee & coding..._
+### About me
+- 🔭 Currently working on: frontend UI revamp project for Ichiba
+- 🌱 Currently learning:
+    - Web programming (JavaScript, TypeScript, React, Node.js)
+    - AI-stuff (Linear Algebra, Deep Learning, LLM-training, and so on)
+- 📫 How to reach out to me:
+  - Send me an email to contact@sumitpokharel.com.np or
+  - Message me on [LinkedIn](linkedin.com/in/sumit-pokharel).
