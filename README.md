@@ -6,5 +6,5 @@ _drinking coffee & coding..._
     - Web programming (JavaScript, TypeScript, React, Node.js)
     - AI-stuff (Linear Algebra, Deep Learning, LLM-training, and so on)
 - 📫 How to reach out to me:
-  - Send me an email to contact@sumitpokharel.com.np or
+  - <a href="mailto:hi@sumitpokharel.com.np">Send me an email </a> or
   - Message me on [LinkedIn](linkedin.com/in/sumit-pokharel).
